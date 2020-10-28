@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/RinkuVipin/crypto-app/static/css/main.7c0e4680.chunk.css",
-    "main.js": "/RinkuVipin/crypto-app/static/js/main.99edea28.chunk.js",
-    "main.js.map": "/RinkuVipin/crypto-app/static/js/main.99edea28.chunk.js.map",
-    "runtime-main.js": "/RinkuVipin/crypto-app/static/js/runtime-main.bb1b57a9.js",
-    "runtime-main.js.map": "/RinkuVipin/crypto-app/static/js/runtime-main.bb1b57a9.js.map",
-    "static/js/2.95ec3f50.chunk.js": "/RinkuVipin/crypto-app/static/js/2.95ec3f50.chunk.js",
-    "static/js/2.95ec3f50.chunk.js.map": "/RinkuVipin/crypto-app/static/js/2.95ec3f50.chunk.js.map",
-    "static/js/3.5d09c989.chunk.js": "/RinkuVipin/crypto-app/static/js/3.5d09c989.chunk.js",
-    "static/js/3.5d09c989.chunk.js.map": "/RinkuVipin/crypto-app/static/js/3.5d09c989.chunk.js.map",
+    "main.css": "/RinkuVipin/crypto-app/static/css/main.73efbf52.chunk.css",
+    "main.js": "/RinkuVipin/crypto-app/static/js/main.b9192a9b.chunk.js",
+    "main.js.map": "/RinkuVipin/crypto-app/static/js/main.b9192a9b.chunk.js.map",
+    "runtime-main.js": "/RinkuVipin/crypto-app/static/js/runtime-main.b5cb7117.js",
+    "runtime-main.js.map": "/RinkuVipin/crypto-app/static/js/runtime-main.b5cb7117.js.map",
+    "static/js/2.f9ade9b5.chunk.js": "/RinkuVipin/crypto-app/static/js/2.f9ade9b5.chunk.js",
+    "static/js/2.f9ade9b5.chunk.js.map": "/RinkuVipin/crypto-app/static/js/2.f9ade9b5.chunk.js.map",
+    "static/js/3.13de8fd9.chunk.js": "/RinkuVipin/crypto-app/static/js/3.13de8fd9.chunk.js",
+    "static/js/3.13de8fd9.chunk.js.map": "/RinkuVipin/crypto-app/static/js/3.13de8fd9.chunk.js.map",
     "index.html": "/RinkuVipin/crypto-app/index.html",
-    "static/css/main.7c0e4680.chunk.css.map": "/RinkuVipin/crypto-app/static/css/main.7c0e4680.chunk.css.map",
-    "static/js/2.95ec3f50.chunk.js.LICENSE.txt": "/RinkuVipin/crypto-app/static/js/2.95ec3f50.chunk.js.LICENSE.txt"
+    "static/css/main.73efbf52.chunk.css.map": "/RinkuVipin/crypto-app/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.f9ade9b5.chunk.js.LICENSE.txt": "/RinkuVipin/crypto-app/static/js/2.f9ade9b5.chunk.js.LICENSE.txt",
+    "static/media/logo.2d27ead7.svg": "/RinkuVipin/crypto-app/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb1b57a9.js",
-    "static/js/2.95ec3f50.chunk.js",
-    "static/css/main.7c0e4680.chunk.css",
-    "static/js/main.99edea28.chunk.js"
+    "static/js/runtime-main.b5cb7117.js",
+    "static/js/2.f9ade9b5.chunk.js",
+    "static/css/main.73efbf52.chunk.css",
+    "static/js/main.b9192a9b.chunk.js"
   ]
 }
